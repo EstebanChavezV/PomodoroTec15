@@ -1,4 +1,4 @@
-# PomodoroTec
+# PomodoroTec - Esteban Chávez
 Aquí tienes una guía para crear un archivo README atractivo y completo para tu proyecto Pomodoro en Android. He incluido secciones clave que son útiles para describir la funcionalidad, el propósito y la estructura del proyecto, así como instrucciones de instalación y captura de pantalla de ejemplo.
 
 Pomodoro Timer App
